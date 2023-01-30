@@ -2,7 +2,7 @@
 
 This Utility is a compilation of windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky on any contributions to keep this project clean and efficient. 
 
-https://cdn.discordapp.com/attachments/798954843296890890/1069697499771715614/screen-install.png
+![screen-install](screen-install.png)
 
 Requires you to launch PowerShell or Windows Terminal As ADMINISTRATOR! 
 
@@ -22,8 +22,6 @@ If you are having TLS 1.2 Issues or You cannot find or resolve `christitus.com/w
 [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
 ```
 
-EXE Wrapper for $10 @ https://www.cttstore.com/windows-toolbox
-
 ## Overview
 
 - Install
@@ -40,7 +38,7 @@ EXE Wrapper for $10 @ https://www.cttstore.com/windows-toolbox
 - Updates
   - Fixes the default windows update scheme
 
-Video and Written Article walkthrough @ <https://christitus.com/windows-tool/>
+tutorial vadio @ <https://youtu.be/zUF4UTIqDJc/>
 
 ## Issues
 
