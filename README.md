@@ -2,7 +2,7 @@
 
 This Utility is a compilation of windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky on any contributions to keep this project clean and efficient. 
 
-![screen-install](screen-install.png)
+![screen-install](https://cdn.discordapp.com/attachments/798954843296890890/1069697499771715614/screen-install.png)
 
 Requires you to launch PowerShell or Windows Terminal As ADMINISTRATOR! 
 
